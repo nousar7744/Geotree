@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185058600670",
+    "project_id": "demoproject-cd289",
+    "storage_bucket": "demoproject-cd289.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185058600670:android:df3fbc3f567bdc9f48444f",
+        "android_client_info": {
+          "package_name": "com.geotree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKulMkV8grF2gL_t5bPOCTmsc4wHxG-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

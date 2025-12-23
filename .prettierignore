@@ -1,0 +1,15 @@
+node_modules
+android
+ios
+build
+dist
+*.log
+**/build
+.vscode
+.git
+coverage
+*.xcworkspace
+Pods
+**/*.snap
+package-lock.json
+yarn.lock
